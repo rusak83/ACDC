@@ -11,7 +11,7 @@ sublitle: Contact AC/DC HVAC & Appliance Repair
     <div class="fixed-width-container">
         <div class="col-8">
             <hr>
-            <p class="pullquote">Thank you for your interest in AC-DC HVAC & Appliance Repair. Get in touch with us!</p>
+            <p class="pullquote">Thank you for your interest in AC-DC Appliance Repair. Get in touch with us!</p>
             <div class="card">
                 <p class="big">Our address:  2248 Central Dr, Bedford, 76021, TX
                     <br>
