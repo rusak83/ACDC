@@ -2,8 +2,8 @@
 layout: page
 permalink: /about/
 title: About
-keyword: About AC/DC HVAC & Appliance Repair
-sublitle: About AC/DC HVAC & Appliance Repair
+keyword: About AC/DC Appliance Repair
+sublitle: About AC/DC Appliance Repair
 ---
 
 <!-- OPENER -->
